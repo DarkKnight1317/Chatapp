@@ -1,2 +1,1 @@
-# Chat-Web-App
-Made during livestream
+# Group Chat Application
